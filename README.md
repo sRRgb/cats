@@ -1,0 +1,4 @@
+- clone repo
+- docker-compose up --build
+- go mod tidy
+- send some queries
